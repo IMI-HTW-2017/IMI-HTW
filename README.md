@@ -34,9 +34,11 @@ FTP Client | Filezilla
 Multi Messenger Client | Franz
 
 ## Git Tutorial-Empfehlungen von Bastian
-https://rogerdudler.github.io/git-guide/index.de.html
-https://svij.org/blog/2015/10/05/was-ist-git/
-http://t3n.de/news/eigentlich-github-472886/
+[git - Der einfache Einstieg](https://rogerdudler.github.io/git-guide/index.de.html)
+
+[Was ist git?](https://svij.org/blog/2015/01/05/was-ist-git/)
+
+[Was ist eigentlich git?](http://t3n.de/news/eigentlich-github-472886/)
 
 
 ## Cheat Sheet Empfehlungen von Bastian
