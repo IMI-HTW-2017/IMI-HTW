@@ -20,6 +20,8 @@ Ein paar Links und so für HTW IMIs
 
 
 ## Softwareempfehlungen von Bastian
+Anwendungszweck | Software
+--- | ---
 Java-Entwicklung | Jetbrains IntelliJ IDE
 Webentwicklung | PHPStorm
 Simpler Editor | Atom / Sublime
