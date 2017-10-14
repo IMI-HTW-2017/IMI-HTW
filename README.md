@@ -1,31 +1,22 @@
 # IMI@HTW
 Ein paar Links und so für HTW IMIs
 
-## Dreamspark (Microsoft Software)
-http://www.f4.htw-berlin.de/studieren/softwarelizenzen
+[Dreamspark (Microsoft Software)](http://www.f4.htw-berlin.de/studieren/softwarelizenzen)
 
-## Imagine (Microsoft Software)
-https://imagine.microsoft.com/en-us/custom/Dreamkspark
+[Imagine (Microsoft Software)](https://imagine.microsoft.com/en-us/custom/Dreamkspark)
 
-## GitHub Student Developer Pack
-https://education.github.com/pack
+[GitHub Student Developer Pack](https://education.github.com/pack)
 
-## Jetbrains Software
-https://www.jetbrains.com/student/
+[Jetbrains Software](https://www.jetbrains.com/student/)
 
-## Hardware
-### Microsoft
-https://www.microsoft.com/de-de/surface/for-students
+## Günstigere Hardware
+[Microsoft](https://www.microsoft.com/de-de/surface/for-students)
 
-### Dell
-https://www.sparcampus.de/dell-studentenrabatt
+[Dell](https://www.sparcampus.de/dell-studentenrabatt)
 
-### Lenovo
-https://www.campuspoint.de/mobile/notebooks/lenovocampus.html
+[Lenovo](https://www.campuspoint.de/mobile/notebooks/lenovocampus.html)
 
-### Notebooks billiger
-https://www.notebooksbilliger.de
-https://www.notebooksbilliger.de/studentenprogramm
+[Notebooks billiger](https://www.notebooksbilliger.de/studentenprogramm)
 
 
 ## Softwareempfehlungen von Bastian
@@ -47,6 +38,6 @@ http://t3n.de/news/eigentlich-github-472886/
 
 
 ## Cheat Sheet Empfehlungen von Bastian
-https://www.git-tower.com/learn/cheat-sheets/cli
-https://www.git-tower.com/learn/cheat-sheets/vcs-workflow
-https://www.git-tower.com/learn/cheat-sheets/git
+[CLI](https://www.git-tower.com/learn/cheat-sheets/cli)
+[VCS Workflow](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
+[Git](https://www.git-tower.com/learn/cheat-sheets/git)
