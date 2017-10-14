@@ -39,10 +39,10 @@ Anwendungszweck | Software | Windows | macOS
 --- | --- | --- | ---
 Webentwicklung | [Brackets](http://brackets.io)| ✔ | ✔
 Simpler Editor | [Notepad++](https://notepad-plus-plus.org)| ✔ | 
- | [BBEdit](https://www.barebones.com/products/bbedit/)| | ✔
+  | [BBEdit](https://www.barebones.com/products/bbedit/)| | ✔
 Simple Bildbearbeitung | [paint.net](https://www.getpaint.net)| ✔ | 
 SSH Client | [PuTTY](http://www.putty.org) | ✔ | ✔
- | [MobaXterm](https://mobaxterm.mobatek.net) | ✔ | 
+  | [MobaXterm](https://mobaxterm.mobatek.net) | ✔ | 
 FTP Client | [WinSCP](https://winscp.net/eng/index.php) | ✔ | 
 
 ## Git Tutorial-Empfehlungen von Bastian
