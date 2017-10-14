@@ -40,6 +40,8 @@ http://t3n.de/news/eigentlich-github-472886/
 
 
 ## Cheat Sheet Empfehlungen von Bastian
-[CLI](https://www.git-tower.com/learn/cheat-sheets/cli)
-[VCS Workflow](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
+[Command line](https://www.git-tower.com/learn/cheat-sheets/cli)
+
+[The workflow of version control](https://www.git-tower.com/learn/cheat-sheets/vcs-workflow)
+
 [Git](https://www.git-tower.com/learn/cheat-sheets/git)
