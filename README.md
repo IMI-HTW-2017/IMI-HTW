@@ -2,7 +2,7 @@
 Ein paar Links und so für HTW IMIs
 
 ## Kostenlose Software
-[Dreamspark (Microsoft Software)](http://www.f4.htw-berlin.de/studieren/softwarelizenzen)
+[HTW Software-Seite](http://www.f4.htw-berlin.de/studieren/softwarelizenzen)
 
 [Imagine (Microsoft Software)](https://imagine.microsoft.com/en-us/custom/Dreamkspark)
 
