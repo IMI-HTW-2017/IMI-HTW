@@ -1,6 +1,9 @@
 # IMI@HTW
 Ein paar Links und so für HTW IMIs
 
+## Bücher als PDFs
+[Objects First with BlueJ (von Brandon)](https://www.dropbox.com/s/iojmdd9qbpzeqo8/Objects-First-With-Java-A-Practical-Introduction-Using-BlueJ-5th-Edition.pdf?dl=0)
+
 ## Kostenlose Software
 [HTW Software-Seite](http://www.f4.htw-berlin.de/studieren/softwarelizenzen)
 
